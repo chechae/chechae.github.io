@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chaelogg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "채냥 공부 기록"
+  location         : "Sout Korea. Seoul"
   email            :
   links:
     - label: "Email"
