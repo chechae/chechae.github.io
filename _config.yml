@@ -120,16 +120,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "chehun1216@ewha.ac.kr"
+      url: "chehun1216@ewha.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://chechae.github.io"
+      url: "https://chechae.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
