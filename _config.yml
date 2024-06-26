@@ -116,7 +116,7 @@ author:
   avatar           : "/images/bio.jpg"
   bio              : "채냥 공부 기록"
   location         : "Seoul"
-  email            : "chehun1216@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,12 +124,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://chechae.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/chechae"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/cheonniii/"
 
 # Site Footer
 footer:
